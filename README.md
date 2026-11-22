@@ -4,7 +4,6 @@
  
 Moro em Sorocaba - SP e trabalho na **Toyota do Brasil** (Planta de Sorocaba), onde uso dados para acompanhar e melhorar a operação logística de veículos. Aqui reúno os projetos que desenvolvo na faculdade e por conta própria.
  
-> Os projetos deste perfil usam dados **públicos ou fictícios**. Nenhuma informação interna de empresas é publicada aqui.
  
 ## Sobre mim
  
