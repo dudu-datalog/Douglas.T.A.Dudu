@@ -14,7 +14,7 @@ Moro em Sorocaba - SP e trabalho na **Toyota do Brasil** (Planta de Sorocaba), o
 * Tenho experiência prática em estoque, almoxarifado e logística de veículos
 ## Competências
  
-<img width="1060" height="300" alt="grafico-competencias" src="https://github.com/user-attachments/assets/4d5f4208-926a-49ae-890c-2848d7cf3970" />
+<img width="1060" height="300" alt="grafico-competencias" src="https://github.com/user-attachments/assets/9a26b7d4-8000-43a9-b20f-d5d1b70f47ba" />
 
 ## Projetos
  
@@ -36,6 +36,7 @@ Os certificados dos meus cursos extracurriculares estão no repositório [certif
  
 ## Contato
  
-* **LinkedIn:** [meu perfil](https://www.linkedin.com/in/seu-usuario)
+* **LinkedIn:** [meu perfil](https://www.linkedin.com/in/douglas-thiago-alves-dudu-754590211/)
 * **E-mail:** <douglas.crp1@gmail.com>
 * **Cidade:** Sorocaba - SP
+ 
